@@ -14,7 +14,7 @@ If you haven't already, fork and clone this lesson into your local environment.
 Alternative 1
 Use the github page link provided below to get started
 
-      https://MakenaG.github.io/Flatdango-app/
+     https://kenneymoh.github.io/codechallengethree/
 Quick Review to clone the program into your local environment
 Navigate to https://github.com/MakenaG/Flatdango-app
 Once you are in my Github repo, choose SSH and copy the provided git URL info.
